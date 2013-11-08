@@ -1,0 +1,13 @@
+BFI ROLE NUMBERS
+1	anonymous
+2	authenticated
+3	superadmin
+4	admin
+5	blogger
+6	editor
+7	member
+8	donor
+9	bfc review team
+10	bfc juror
+11	bfc admin
+12	

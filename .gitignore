@@ -1,0 +1,4 @@
+**/.DS_Store
+.vagrant/machines/default/virtualbox/*
+dev.bfi.local/*
+dev.bfi.local.bak/*
